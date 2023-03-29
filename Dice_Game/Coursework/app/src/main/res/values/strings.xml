@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Coursework</string>
+    <string name="score">Score</string>
+    <string name="computer">Computer</string>
+    <string name="human">Human</string>
+    <string name="computer_score">Computer Score :</string>
+    <string name="human_score">Human Score :</string>
+    <string name="Computer_Score" />
+    <string name="hScore">human</string>
+    <string name="back">Back</string>
+    <string name="back1">Back</string>
+    <string name="ok">OK</string>
+    <string name="target">Target</string>
+    <string name="Target">Target</string>
+    <string name="The_rules_of_the_game">The rules of the game</string>
+    <string name="Details">Details</string>
+    <string name="Human">Human</string>
+    <string name="dice_game">Dice Game</string>
+    <string name="new_game">New game</string>
+    <string name="about">About</string>
+    <string name="rules">Rules</string>
+    <string name="Throw">Throw</string>
+    <string name="Enter_your_target">Enter your target</string>
+</resources>
